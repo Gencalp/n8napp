@@ -1,2 +1,1 @@
-# n8napp
-n8n test app
+# n8napp  Updated by n8n workflow
